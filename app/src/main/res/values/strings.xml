@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Andella</string>
+    <string name="welcome">ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="track">Track</string>
+    <string name="android">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="akindele_taiwo_daniel">Akindele Taiwo Daniel</string>
+    <string name="email">Email</string>
+    <string name="akindele_taiwo57_yahoo_com">akindele_taiwo57@yahoo.com</string>
+    <string name="country">Country</string>
+    <string name="phone_no">Phone No</string>
+    <string name="_08062359610">08062359610</string>
+    <string name="taiwodave">Taiwodave</string>
+    <string name="slack">Slack</string>
+    <string name="todo">TODO</string>
+    <string name="the_andela_learning_community">The Andela Learning Community</string>
+</resources>
